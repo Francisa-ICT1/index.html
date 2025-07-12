@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -22,4 +21,5 @@
     <p>Price: $20</p>
     <img src="https://edube.org/uploads/media/default/0001/04/zamioculcas-zanzibar-gem.jpg" alt="Zanzibar Gem">
 </body>
-</html># index.html
+</html>
+
