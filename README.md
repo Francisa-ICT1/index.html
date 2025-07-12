@@ -4,13 +4,6 @@
     <meta charset="UTF-8">
     <title>Indoor Plants</title>
     <meta name="description" content="Explore a variety of indoor plants for your home or office.">
-    <style>
-        body {
-            background-color: DARKGREEN
-          
-            
-        }
-    </style>
 </head>
 <body>
     <h1>Indoor Plants</h1>
@@ -26,6 +19,3 @@
     <img src="https://edube.org/uploads/media/default/0001/04/zamioculcas-zanzibar-gem.jpg" alt="Zanzibar Gem">
 </body>
 </html>
-
-
-
