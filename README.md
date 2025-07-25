@@ -62,6 +62,7 @@ cellspacing="0">
     
 </tr>
 <tr>
+    
     <td colspan="2"><strong>Serving Suggestion:</strong>serve with steamed or jasmine tea.</td>
     </tr>
 </tbody>
