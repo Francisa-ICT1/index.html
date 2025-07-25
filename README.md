@@ -7,7 +7,7 @@
 <meta name="embark on a culinary adventure with  taste of travel, exploring global flavor recipe.">
 
 </head>
-<body bgcolor="#F1DABF">
+<body>
 
 <h1>Discover the flavor of thailand</h1>
 <h2>Tom Yum Goong: A spicy thai delight</h2>
@@ -38,7 +38,7 @@ salty, and spicy."</blockquote>
 <h3>Cooking tips</h3><p>
 <sup>1/4</sup>cup of fish sauce adds authentic Thai flavor.<br>
 <sub>1</sub>tablespoon of chili paste gives the soup its signature heat.<br></p>
-<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt="tom yum goong"/>
+<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg"alt="tom yum goong"/>
 
 <br><br>
 <table border="1"
@@ -49,21 +49,21 @@ cellspacing="0">
 <tr>
 <th>Ingridients</th>
 <th>quantity</th>
-    
 </tr>
-
 </thread>
 <tbody>
     <tr>
         <td>lemongrass</td>
         <td>2 stalks</td>
-    </tr><tr>
+    </tr>
+    <tr>
     <td colspan="2">preperation time: 20 minutes</td>
 </tr>
-<tr> 
+<tr>
     <td colspan="2"><strong>Serving Suggestion:</strong>serve with steamed or jasmine tea.</td>
 </tr>
 </tbody>
 </table>
+
 </body>
 </html>
