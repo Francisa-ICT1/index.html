@@ -49,17 +49,23 @@ cellspacing="0">
 <tr>
 <th>Ingridients</th>
 <th>quantity</th>
+    
 </tr>
+
 </thread>
 <tbody>
     <tr>
         <td>lemongrass</td>
         <td>2 stalks</td>
     </tr>
+    
     <td colspan="2">preperation time: 20 minutes</td>
+    
 </tr>
+
 <tr>
     <td colspan="2"><strong>Serving Suggestion:</strong>serve with steamed or jasmine tea.</td>
+    
 </tr>
 </tbody>
 </table>
